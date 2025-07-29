@@ -59,17 +59,3 @@ pip install facial_emotion_recognition opencv-python
 * Captures frames from your webcam using OpenCV.
 * Uses `facial_emotion_recognition` to detect faces and classify emotions in real time.
 * Overlays the recognized emotion label on the video feed.
-
-## 📌 Notes
-
-* Ensure your webcam is working properly.
-* This application runs on CPU (`device='cpu'`), but can be modified to use GPU if available.
-
-## 🙌 Credits
-
-* [facial\_emotion\_recognition PyPI Package](https://pypi.org/project/facial-emotion-recognition/)
-* OpenCV library for real-time computer vision.
-
----
-
-Would you like me to generate a `requirements.txt` file as well?
