@@ -1,0 +1,1 @@
+pip install facial_emotion_recognition opencv-python
